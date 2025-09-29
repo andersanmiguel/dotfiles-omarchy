@@ -1,0 +1,1 @@
+/home/ander/.config/omarchy/current/theme/neovim.lua
