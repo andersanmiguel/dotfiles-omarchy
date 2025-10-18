@@ -4,3 +4,5 @@
 vim.opt.relativenumber = false
 
 vim.g.mapleader = ","
+
+vim.opt.wrap = true
